@@ -17,6 +17,11 @@ Customizações Testes:
    <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 </div>-->
 
+<div align="center">
+   <img height="380em" src="https://i.pinimg.com/originals/9c/ce/c4/9ccec4f5311e4925c9be8761549fa69b.gif"/>
+</div>
+
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=draggner&show_icons=true&count_private=true&hide_border=true&title_color=708090&icon_color=708090&text_color=c9d1d9&bg_color=0d1117" alt="Draggner Github Stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=draggner&layout=compact&hide_border=true&title_color=708090&text_color=708090&bg_color=0d1117" />
