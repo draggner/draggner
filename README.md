@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Davi+Samuel;Eu+tenho+19+anos;Sou+estudante+de+BSI+na+UFERSA;Sejam+bem-vindo+todos+e+todas+as+pessoas!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Fala+Devs!,+Me+chamo+Davi+Samuel;Mas+podem+me+chamar+por+Draggner;Eu+tenho+19+anos+e+sou+estudante+de+BSI+na+UFERSA;E+aqui+é+um+Perfil+de+um+Desenvolvedor+Web+Front-end;)](https://git.io/typing-svg)
 
 <!-- version inglish
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Davi+Samuel;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
