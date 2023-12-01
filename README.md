@@ -5,8 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=draggner&color=red" alt="Profile views" /> </p>
 
 <p align="left">
-Fala Devs! Eu sou <b>Davi Samuel</b> - <i>Desenvolvedor Web Front-end</i> em andamento!👨🏻‍💻
-Bom, vamos lá contar sobre mim. Um jovem estudante de <strong>Sistemas de Informação</strong> no segundo período (UFERSA, Campus Angicos/RN) o qual foco em estudar desenvolvimento web. Atualmente estou estudando as seguintes tecnologias em sequência: (HTML), CSS, JavaScript, Python e Git.
+Fala Devs! Eu sou <b>Davi Samuel</b> - <i>Desenvolvedor Web</i> em andamento!👨🏻‍💻
+Bom, vamos lá contar sobre mim. Um jovem estudante de <strong>Sistemas de Informação</strong> no segundo período (UFERSA, Campus Angicos/RN) o qual foco em estudar desenvolvimento web. Atualmente estou estudando as seguintes tecnologias em sequência: HTML, (CSS), JavaScript, Python e Git.
 </p>
 
 <div align="center">  
@@ -15,8 +15,8 @@ Bom, vamos lá contar sobre mim. Um jovem estudante de <strong>Sistemas de Infor
 </div>
 
 <div align="center"> 
-  <a href="https://instagram.com/draggners" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 30px"></a>&nbsp;
-  <a href = "mailto:devdraggnerstudio@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 30px"></a>&nbsp;
+  <a href="https://instagram.com/draggner.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" style="border-radius: 30px"></a>&nbsp;
+  <a href = "mailto:contatodraggner@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" style="border-radius: 30px"></a>&nbsp;
   <a href="https://www.linkedin.com/in/draggner" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px"></a> 
 </div>
 
@@ -44,3 +44,4 @@ Bom, vamos lá contar sobre mim. Um jovem estudante de <strong>Sistemas de Infor
 -->
 
 <!--[Snake animation](https://github.com/draggner/draggner/blob/output/github-contribution-grid-snake.svg)-->
+
