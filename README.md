@@ -9,10 +9,12 @@
 
 <img src="https://i.ibb.co/vY9mzsM/logo-transparent-white-dzs.png" alt="logo-transparent-white-dzs" min-width="150px" align="right" max-width="150px" width="150px" border="0">
 
+<div align="center">
 - Desenvolvedor Web Front-end
 - Técnico em Informática
 - Bacharelado em Sistemas de Informação 3/8
 - Desenvolvedor Front-end na EJ Turing Tecnologia
+</div>
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=draggner&show_icons=true&count_private=true&hide_border=true&title_color=708090&icon_color=708090&text_color=c9d1d9&bg_color=0d1117" alt="Draggner Github Stats" /> 
