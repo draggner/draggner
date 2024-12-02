@@ -5,13 +5,9 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c80f17&height=120&section=header"/>
 
-<img src="./assets/img/Darius_League_of_Legends_GIF_Lol-Discover&ShareGIFs.gif" />
+<!-- <img src="./assets/img/Darius_League_of_Legends_GIF_Lol-Discover&ShareGIFs.gif" /> -->
 
-<img src="https://i.ibb.co/vY9mzsM/logo-transparent-white-dzs.png" alt="logo-transparent-white-dzs" min-width="150px" align="right" max-width="150px" width="150px" border="0">
-
-<br>
-
-## About
+<img src="https://i.ibb.co/vY9mzsM/logo-transparent-white-dzs.png" alt="logo-transparent-white-dzs" min-width="150px" align="center" max-width="150px" width="150px" border="0">
 
 <div align="center">
 - Desenvolvedor Web Front-end
